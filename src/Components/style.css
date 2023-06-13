@@ -7,7 +7,7 @@
   display: flex;
   justify-content: center;
   text-transform: uppercase;
-  background-color: #39445a;
+  background-color: crimson;
   font-family: "Montserrat", sans-serif;
   font-size: 5vw;
   padding-bottom: 15px;
@@ -25,6 +25,6 @@
   width: 100%;
   position: fixed;
   bottom: 0;
-  background-color: #2d313a;
+  background-color: crimson;
   z-index: 100;
 }
